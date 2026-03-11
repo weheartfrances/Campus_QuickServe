@@ -8,7 +8,7 @@ package com.mycompany.quickservecampus;
  *
  * @author frances
  */
-Order.java
+
 public class order {
     
     private String customerName;
@@ -23,7 +23,7 @@ public class order {
     this.itemOrdered = itemOrdered;
     this.quantity = quantity;
     this.pricePerItem = pricePerItem;
-    
+   Qu 
            
         
         
